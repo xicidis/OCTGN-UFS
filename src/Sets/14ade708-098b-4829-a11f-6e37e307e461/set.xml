@@ -1152,7 +1152,7 @@
         <property name="Type" value="Foundation"/>
         <property name="Resources" value="Earth Fire Good"/>
         <property name="Difficulty" value="2"/>
-        <property name="Control" value="5"/>
+        <property name="Control" value="4"/>
         <property name="Block Modifier" value="3"/>
         <property name="Block Zone" value="High"/>
         <property name="Speed" value=""/>
